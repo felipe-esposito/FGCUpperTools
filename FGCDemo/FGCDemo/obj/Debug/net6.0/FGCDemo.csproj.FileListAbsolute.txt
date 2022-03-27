@@ -1,0 +1,15 @@
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\bin\Debug\net6.0\FGCDemo.exe
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\bin\Debug\net6.0\FGCDemo.deps.json
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\bin\Debug\net6.0\FGCDemo.runtimeconfig.json
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\bin\Debug\net6.0\FGCDemo.dll
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\bin\Debug\net6.0\ref\FGCDemo.dll
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\bin\Debug\net6.0\FGCDemo.pdb
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\obj\Debug\net6.0\FGCDemo.csproj.AssemblyReference.cache
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\obj\Debug\net6.0\FGCDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\obj\Debug\net6.0\FGCDemo.AssemblyInfoInputs.cache
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\obj\Debug\net6.0\FGCDemo.AssemblyInfo.cs
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\obj\Debug\net6.0\FGCDemo.csproj.CoreCompileInputs.cache
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\obj\Debug\net6.0\FGCDemo.dll
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\obj\Debug\net6.0\ref\FGCDemo.dll
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\obj\Debug\net6.0\FGCDemo.pdb
+C:\Users\spyli\source\repos\FGCDemo\FGCDemo\obj\Debug\net6.0\FGCDemo.genruntimeconfig.cache
